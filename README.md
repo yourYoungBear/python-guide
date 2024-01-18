@@ -1,5 +1,5 @@
 
-![[python-social-preview.png]]
+[[python-social-preview.png]]
 
 ## Introduzione
 
