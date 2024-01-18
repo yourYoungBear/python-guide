@@ -1,5 +1,5 @@
 
-[[python-social-preview.png]]
+![course-cover](https://github.com/yourYoungBear/python-guide/blob/main/python-social-preview.png?raw=true)
 
 ## Introduzione
 
